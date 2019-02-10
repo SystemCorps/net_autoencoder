@@ -1,0 +1,1 @@
+Mean Squared Error - Validation [Mean: 0.01292, Std: 0.01285], Test [Mean: 0.02215, Std: 0.02177], Statistically Diff 
